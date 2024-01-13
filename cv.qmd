@@ -2,8 +2,7 @@
 title: "Martin Skarzynski Laptev"
 format:
   html:
-    output-file: index.html
-    toc: true
+    output-file: cv.html
 css: cv.css
 format-links: [pdf]
 ---
