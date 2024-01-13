@@ -1,0 +1,30 @@
+h1.title {
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.cvdate {
+  float: right;
+  font-style: italic;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.italic {
+  font-style: italic;
+}
+
+section > ul > li > ul {
+  display: grid;
+  grid-row-gap: -20px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+section > ul > li > ul > li {
+  margin: 1px;
+}
