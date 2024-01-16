@@ -192,7 +192,7 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 - Led a team of data scientists and software developers working on a cyber intelligence application
 - Spearheaded interdisciplinary COVID‑19 [visualization](https://www.boozallen.com/c/insight/blog/epimaps-data-visualization-for-healthcare), [genomics](https://mskar.github.io/var), and statistical modeling efforts
 - Obtained the [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/99aa294a-2b69-40f2-a607-0e7b91ffb5f6/public_url){.italic} certification
-  
+
 ##### [Adjunct Professor]{style="font-weight: 900;"}, [George Washington University](https://www.gwu.edu) [September 2021 ‑ December 2023]{.cvdate}
 
 - Taught two undergraduate courses for the [Women's Leadership Program](https://wlp.gwu.edu):
@@ -206,11 +206,10 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 - Conducted genomic analysis of immune and cancer cells
 - Developed and tested pharmaceutical and immunotherapeutic agents
 - Quantified cancer cell signaling pathways
-- Mentored trainees from four different NIH training programs:
-  - [SIP]{data-bs-toggle="tooltip" data-bs-title="Summer Internship Program"}
-  - [MRSP]{data-bs-toggle="tooltip" data-bs-title="Medical Research Scholars Program"}
-  - [HiSTEP]{data-bs-toggle="tooltip" data-bs-title="High School Scientific Training and Enrichment Program"}
-  - [BRTPUG]{data-bs-toggle="tooltip" data-bs-title="Biomedical Research Training Program for Individuals from Underrepresented Groups"}
+- Mentored trainees from various NIH training programs including:
+  - [SIP](https://www.training.nih.gov/research-training/pb/sip){data-bs-toggle="tooltip" data-bs-title="Summer Internship Program"}
+  - [MRSP](https://clinicalcenter.nih.gov/training/mrsp){data-bs-toggle="tooltip" data-bs-title="Medical Research Scholars Program"}
+  - [HiSTEP](https://www.training.nih.gov/research-training/hs/hs-sip/histep){data-bs-toggle="tooltip" data-bs-title="High School Scientific Training and Enrichment Program"}
 
 ##### [Bioinformatics and Data Science Co-Chair]{style="font-weight: 900;"}, [FAES](https://faes.org) [January 2014 ‑ May 2020]{.cvdate}
 
@@ -219,16 +218,10 @@ Overall, I aim to leverage my broad scientific background and technical expertis
   - [Introduction to Python](https://github.com/biof309)
   - [Introduction to Text Mining](https://github.com/biof395)
   - [Applied Machine Learning](https://biof509.github.io)
-- Taught nine graduate biotechnology workshops:
-  - [Pharmacometric Analyses using R](https://education.faes.org/search/publicCourseSearchDetails.do?method=load&courseId=1059989)
+- Taught graduate biotechnology workshops on various topics including:
+  - [Pharmacometrics](https://education.faes.org/search/publicCourseSearchDetails.do?method=load&courseId=1059989)
   - [Cellular Immunology](https://education.faes.org/search/publicCourseSearchDetails.do?method=load&courseId=1409949)
-  - [Research Tools for Studying Disease](https://education.faes.org/search/publicCourseSearchDetails.do?method=load&courseId=1151070)
-  - Junior Scientist Training Program
-  - Recombinant DNA Methodology
-  - Genetics Institute
-  - Immunochemistry and Antibodies
-  - Cancer Prevention
-  - Flow Cytometry
+  - [Flow Cytometry](https://education.faes.org/search/publicCourseSearchDetails.do?method=load&courseId=1424281)
 
 ### Education
 
