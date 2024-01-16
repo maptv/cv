@@ -225,13 +225,10 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 
 ### Education
 
-##### [MPH]{style="font-weight: 900;"}, Epidemiology and Biostatistics [May 2018]{.cvdate}
-
-##### [PhD]{style="font-weight: 900;"}, Tumor Biology [May 2015]{.cvdate}
-
-##### [MS]{style="font-weight: 900;"}, Biotechnology [June 2009]{.cvdate}
-
-##### [BA]{style="font-weight: 900;"}, Biology [May 2007]{.cvdate}
+- [MPH]{style="font-weight: 900;"}, Epidemiology and Biostatistics [May 2018]{.cvdate}
+- [PhD]{style="font-weight: 900;"}, Tumor Biology [May 2015]{.cvdate}
+- [MS]{style="font-weight: 900;"}, Biotechnology [June 2009]{.cvdate}
+- [BA]{style="font-weight: 900;"}, Biology [May 2007]{.cvdate}
 
 ### Natural Languages
 
@@ -247,16 +244,16 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 ### Select Publications
 
 ::: {.pubs}
-- [JAMA Netw Open]{style="font-weight: 900;"}, [Recalibration of a deep learning model [...] to inform lung cancer screening intervals](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802522) [March 2023]{.cvdate}
-- [Glob Health Epidemiol Genom]{style="font-weight: 900;"}, [SARS‐CoV‐2 genome‐based severity predictions correspond to [...] higher viral load](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9173902) [May 2022]{.cvdate}
-- [Virological]{style="font-weight: 900;"}, [Linking genotype to phenotype [...] in SARS‐CoV‐2 [...]](https://virological.org/t/linking-genotype-to-phenotype-further-exploration-of-mutations-in-sars-cov-2-associated-with-mild-or-severe-outcomes/794) [April 2022]{.cvdate}
-- [Evol Med Public Health]{style="font-weight: 900;"}, [Variants in SARS-CoV-2 associated with mild or severe outcome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8385248) [June 2021]{.cvdate}
-- [J Natl Cancer Inst]{style="font-weight: 900;"}, [Using prediction models to reduce [...] disparities in [...] lung cancer screening [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562965) [January 2021]{.cvdate}
-- [Clin Cancer Res]{style="font-weight: 900;"}, [Interactions between ibrutinib and anti‐CD20 antibodies [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4703510) [January 2016]{.cvdate}
-- [Bioconjug Chem]{style="font-weight: 900;"}, [Designing the furin‐cleavable linker in recombinant immunotoxins [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7724502) [May 2015]{.cvdate}
-- [Front Public Health]{style="font-weight: 900;"}, [Health disparities in the immunoprevention of [HPV] [...] associated malignancies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682020) [December 2015]{.cvdate}
-- [Blood]{style="font-weight: 900;"}, [Pathogenic role of [BCR] signaling and canonical NF-κB activation in [MCL]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937360) [July 2016]{.cvdate}
-- [Cancer Res]{style="font-weight: 900;"}, [Harnessing the Fcμ receptor for [...] therapy of [CLL]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268434) [October 2014]{.cvdate}
+- [Recalibration of a deep learning model [...] to inform lung cancer screening intervals](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2802522) [March 2023]{.cvdate}
+- [SARS‐CoV‐2 genome‐based severity predictions correspond to [...] higher viral load](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9173902) [May 2022]{.cvdate}
+- [Linking genotype to phenotype [...] in SARS‐CoV‐2 [...]](https://virological.org/t/linking-genotype-to-phenotype-further-exploration-of-mutations-in-sars-cov-2-associated-with-mild-or-severe-outcomes/794) [April 2022]{.cvdate}
+- [Variants in SARS-CoV-2 associated with mild or severe outcome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8385248) [June 2021]{.cvdate}
+- [Using prediction models to reduce [...] disparities in [...] lung cancer screening [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8562965) [January 2021]{.cvdate}
+- [Pathogenic role of [BCR] signaling and canonical NF-κB activation in [MCL]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937360) [July 2016]{.cvdate}
+- [Interactions between ibrutinib and anti‐CD20 antibodies [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4703510) [January 2016]{.cvdate}
+- [Health disparities in the immunoprevention of [HPV] [...] associated malignancies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682020) [December 2015]{.cvdate}
+- [Designing the furin‐cleavable linker in recombinant immunotoxins [...]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7724502) [May 2015]{.cvdate}
+- [Harnessing the Fcμ receptor for [...] therapy of [CLL]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268434) [October 2014]{.cvdate}
 :::
 
 ### Select Awards
