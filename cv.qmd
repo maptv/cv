@@ -4,7 +4,6 @@ format:
   html:
     page-navigation: false
     output-file: index.html
-    page-layout: full
 css: cv.css
 ---
 
@@ -28,21 +27,21 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 ##### [Lead Instructor]{style="font-weight: 900;"}, [General Assembly](https://generalassemb.ly) [July 2019 ‑ Present]{.cvdate}
 
 - Teaches [open-enrollment](https://generalassemb.ly/instructors/martin-skarzynski/23420) and enterprise courses such as:
+  - [React Development](https://generalassemb.ly/education/react-development)
   - [Data Analytics](https://generalassemb.ly/education/data-analytics)
-  - [Front-End Web Development](https://generalassemb.ly/education/front-end-web-development)
   - [Tech Excellence Data Science](https://www.boozallen.com/e/insight/blog/path-to-technical-success)
   - [Python Programming](https://generalassemb.ly/education/python-programming)
-  - [React Development](https://generalassemb.ly/education/react-development)
+  - [Front-End Web Development](https://generalassemb.ly/education/front-end-web-development)
 
 ##### [Lead Instructor]{style="font-weight: 900;"}, [Data Society](https://datasociety.com) [October 2019 ‑ Present]{.cvdate}
 
 - Provides enterprise clients with training in:
   - Machine Learning
-  - Natural Language Processing
+  - DevOps
   - Python Programming
   - R Programming
   - Graph Analytics
-  - DevOps
+  - Natural Language Processing
 
 ##### [Vice President]{style="font-weight: 900;"}, [Data Community DC](https://www.datacommunitydc.org) [April 2022 ‑ Present]{.cvdate}
 
@@ -86,7 +85,6 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 
 <br>
 <br>
-<br>
 
 ##### [Biomedical Scientist]{style="font-weight: 900;"}, [National Institutes of Health](https://www.nih.gov) [June 2009 ‑ April 2021]{.cvdate}
 
@@ -120,10 +118,10 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 
 ### Education
 
-- [MPH]{style="font-weight: 900;"}, Epidemiology and Biostatistics [May 2018]{.cvdate}
-- [PhD]{style="font-weight: 900;"}, Tumor Biology [May 2015]{.cvdate}
-- [MS]{style="font-weight: 900;"}, Biotechnology [June 2009]{.cvdate}
-- [BA]{style="font-weight: 900;"}, Biology [May 2007]{.cvdate}
+- [MPH]{style="font-weight: 900;"}, Epidemiology and Biostatistics, [Johns Hopkins University](https://www.jhu.edu) [May 2018]{.cvdate}
+- [PhD]{style="font-weight: 900;"}, Tumor Biology, [Georgetown University](https://www.georgetown.edu) [May 2015]{.cvdate}
+- [MS]{style="font-weight: 900;"}, Biotechnology, [Jagiellonian University](https://en.uj.edu.pl) [June 2009]{.cvdate}
+- [BA]{style="font-weight: 900;"}, Biology, [St. Mary's College of Maryland](https://www.smcm.edu) [May 2007]{.cvdate}
 
 ### Select Publications
 
@@ -145,15 +143,29 @@ Overall, I aim to leverage my broad scientific background and technical expertis
 ::: {.awards}
 - [Community Contribution of the Year Category Finalist]{style="font-weight: 900;"}, AWS Builder Awards [February 2023]{.cvdate}
 - [Artificial Intelligence Solutions Architect Award]{style="font-weight: 900;"}, BAH Emergent Skills Program [January 2022]{.cvdate}
+- [Trans‐Fellowship Research Award]{style="font-weight: 900;"}, Cancer Prevention Fellowship Program [June 2019]{.cvdate}
 :::
 
 ### Natural Languages
 
 ::: {.langs}
-- [English]{style="font-weight: 900;"}: Native
-- [Polish]{style="font-weight: 900;"}: Native
-- [Spanish]{style="font-weight: 900;"}: Professional
-- [Russian]{style="font-weight: 900;"}: Professional
-- [French]{style="font-weight: 900;"}: Working
-- [Portuguese]{style="font-weight: 900;"}: Limited
+- [Native]{style="font-weight: 900;"}: English, Polish
+- [Professional]{style="font-weight: 900;"}: Spanish, Russian
+- [Working]{style="font-weight: 900;"}: French, Portuguese
 :::
+
+```{=html}
+<script src="../scripts/time.js"></script>
+<script>
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+</script>
+<style>
+div#quarto-sidebar-glass { display: none !important; }
+ul.navbar-nav.navbar-nav-scroll { -webkit-flex-direction: row !important; }
+#quarto-sidebar { padding: 0px; overflow-x: hidden !important; }
+#quarto-sidebar > * { padding: 0px; }
+@media only screen and (max-width: 991px) { #quarto-search { display: none !important; } #quarto-sidebar { padding: 0px 9px 0px 9px !important; } }
+@media only screen and (max-width: 767px) { div.cell.page-columns.page-full { display: none !important; } }
+</style>
+```
